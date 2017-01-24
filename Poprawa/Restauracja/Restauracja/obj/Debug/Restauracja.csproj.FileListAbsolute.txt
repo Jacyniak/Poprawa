@@ -1,0 +1,6 @@
+C:\Users\local\Desktop\Poprawa\Restauracja\Restauracja\bin\Debug\Restauracja.exe.config
+C:\Users\local\Desktop\Poprawa\Restauracja\Restauracja\bin\Debug\Restauracja.exe
+C:\Users\local\Desktop\Poprawa\Restauracja\Restauracja\bin\Debug\Restauracja.pdb
+C:\Users\local\Desktop\Poprawa\Restauracja\Restauracja\obj\Debug\Restauracja.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\Poprawa\Restauracja\Restauracja\obj\Debug\Restauracja.exe
+C:\Users\local\Desktop\Poprawa\Restauracja\Restauracja\obj\Debug\Restauracja.pdb
